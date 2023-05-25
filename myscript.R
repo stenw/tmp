@@ -1,2 +1,2 @@
 library(survival)
-cat('test')
+print('test')
